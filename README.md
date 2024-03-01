@@ -20,7 +20,7 @@ $ source mychat/bin/activate
 ```
 $ pip install -r requirements.txt
 ```
-- Download tinyllama-1.1b-chat-v1.0.Q5_K_M.gguf from ![TheBloke HF report](https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF) to directory `models`.
+- Download tinyllama-1.1b-chat-v1.0.Q5_K_M.gguf from [TheBloke HF report](https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF) to directory `models`.
 - Run script `main.py` to start the testing:
 ```
 $ python main.py
@@ -47,6 +47,7 @@ A: Client Accelerator 6.3.0 supports TLS versions 1.0 and 1.1 or 1.2. The suppor
 Note that TLS 1.0 and TLS 1.1 are no longer supported by some browsers and operating systems. Therefore, it's recommended to use TLS 1.2 for optimal performance and security.
 ```
 Here is a screenshot of the visualization from this run:
+<br>
 ![Vector Space Visualization](/assets/ui_screenshot.png)
 ___
 ## Primary Libraries
