@@ -55,7 +55,7 @@ ___
 - **LangChain**: Framework for developing applications powered by language models
 - **FAISS**: Open-source library for efficient similarity search and clustering of dense vectors.
 - **Sentence-Transformers (all-MiniLM-L6-v2)**: Open-source pre-trained transformer model for embedding text to a dense vector space for tasks like cosine similarity calculation.
-- **Spotlight: Visualization library to interactively explore unstructured datasets.
+- **Spotlight**: Visualization library to interactively explore unstructured datasets.
 
 ___
 ## Files and Content
